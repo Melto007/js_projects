@@ -20,4 +20,3 @@ Sl.No  | Project Name | Projects code | Live Link
   13   | Age Calculator  | [source code](https://github.com/Melto007/javascript6-age-calculator) | [live link](https://javascript6-age-calculator.netlify.app/)
   14   | Rock Paper Scissor | [source code](https://github.com/Melto007/javascript5-rock-paper-scissors) | [live link](https://javascript5-rock-paper-scissors.netlify.app/)
   15   | Color Changer | [source code](https://github.com/Melto007/Javascript3-color-changer) | [live link](https://javascript3-color-changer.netlify.app/)
-  16   | DOM Manipulation | [source code](https://github.com/Melto007/Javascript1-Accordion) |
